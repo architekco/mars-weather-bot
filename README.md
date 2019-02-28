@@ -1,2 +1,1 @@
-# mars-weather-bot
-A simple twitter bot that tweets InSight weather data using node and phantomjs 
+A super-duper simple twitter bot that creates a screenshot from the image and data overlay found at https://mars.nasa.gov/layout/embed/image/insightweather/ for tweeting daily weather updates from InSight. Built with Node and PhantomJS.

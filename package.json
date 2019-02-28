@@ -1,0 +1,25 @@
+{
+  "name": "mars-weather-bot",
+  "version": "1.0.0",
+  "description": "Weather updated daily throughout the duration of the InSight mission.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "phantom": "^6.0.3",
+    "twit": ""
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "mars",
+    "insight",
+    "phantomjs",
+    "express",
+    "node"
+  ]
+}
